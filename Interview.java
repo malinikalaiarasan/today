@@ -8,6 +8,7 @@ public class Interview {
 			if(i%2==0);
 			count++;
 			System.out.println("even num is"+count);
+			System.out.println( "void");
 		}
 }
 }
